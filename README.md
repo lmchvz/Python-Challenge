@@ -1,6 +1,5 @@
-03 Python Homework - Extended Due Date: Sunday, September 15, 2019 11:59 PM
-
 # Unit 3 | Python-C hallengeAssignment - Py Me Up, Charlie 
+Extended Due Date: Sunday, September 15, 2019 11:59 PM
 
 ## Background
 

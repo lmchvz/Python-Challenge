@@ -1,4 +1,4 @@
-# Unit 3 | Python-C hallengeAssignment - Py Me Up, Charlie 
+# Python-Challenge - Py Me Up, Charlie 
 
 ## PyBank
 

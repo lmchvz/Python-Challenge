@@ -8,7 +8,7 @@ In this challenge, the goal was to create a Python script for analyzing the fina
   * The greatest increase in profits (date and amount) over the entire period
   * The greatest decrease in losses (date and amount) over the entire period
 
-[Test Data](Resources/alphabetical_testing.xlsx)
+![Test Data](Pybank/financial_analysis.txt)
 
 ## PyPoll
 

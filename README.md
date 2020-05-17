@@ -1,18 +1,21 @@
 ## Python-Challenge: Py Me Up, Charlie 
 
 ## PyBank
-In this challenge, the goal was to create a Python script for analyzing the financial records of Pybank. The dataset is composed of two columns: `Date` and `Profit/Losses`. The Python script  analyzes the records to calculate each of the following:
+### Project Description: 
+In this challenge, the goal was to create a Python script for analyzing the financial records of Pybank. The dataset is composed of two columns: Date and Profit/Losses. The Python script  analyzes the records to calculate each of the following:
   * The total number of months included in the dataset
   * The net total amount of "Profit/Losses" over the entire period
   * The average of the changes in "Profit/Losses" over the entire period
   * The greatest increase in profits (date and amount) over the entire period
   * The greatest decrease in losses (date and amount) over the entire period
-
+### Tools Used: 
+- Python
+### Final Analysis Link: 
 [PyBank Final Analysis](PyBank/financial_analysis.txt)
 
 ## PyPoll
 
-* In this challenge, you are tasked with helping a small, rural town modernize its vote-counting process. (Up until now, Uncle Cleetus had been trustfully tallying them one-by-one, but unfortunately, his concentration isn't what it used to be.)
+ In this challenge, you are tasked with helping a small, rural town modernize its vote-counting process. (Up until now, Uncle Cleetus had been trustfully tallying them one-by-one, but unfortunately, his concentration isn't what it used to be.)
 
 * You will be give a set of poll data called [election_data.csv](PyPoll/Resources/election_data.csv). The dataset is composed of three columns: `Voter ID`, `County`, and `Candidate`. Your task is to create a Python script that analyzes the votes and calculates each of the following:
 

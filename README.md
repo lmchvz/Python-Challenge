@@ -1,6 +1,6 @@
-## Python-Challenge: Py Me Up, Charlie 
+## Python-Challenge: PyBank 
 
-### PyBank Project Description: 
+###  Project Description: 
 In this challenge, the goal was to create a Python script for analyzing the financial records of Pybank. The dataset is composed of two columns: Date and Profit/Losses. The Python script  analyzes the records to calculate each of the following:
   * The total number of months included in the dataset
   * The net total amount of "Profit/Losses" over the entire period
@@ -12,7 +12,12 @@ In this challenge, the goal was to create a Python script for analyzing the fina
 ### Final Analysis Link: 
 [PyBank Final Analysis](PyBank/financial_analysis.txt)
 
-### PyPoll Project Description: 
+[PyBank Python Script](PyBank/Main.py)
+
+
+## Python-Challenge: PyPoll 
+
+### Project Description: 
 In this challenge, the goal was to analyze the vote-counting process . The dataset is composed of three columns: Voter ID, County, and Candidate. The Python script was created to analyze the votes and calculate each of the following:
   * The total number of votes cast
   * A complete list of candidates who received votes
